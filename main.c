@@ -4,4 +4,9 @@ main() {
          biggest();
          factorial();
         reverse();
+	pal();
+	sum();
+	fib();
+
+	
 }
